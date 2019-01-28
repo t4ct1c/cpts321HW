@@ -1,0 +1,7 @@
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\bin\Debug\cs321HW.exe.config
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\bin\Debug\cs321HW.exe
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\bin\Debug\cs321HW.pdb
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\obj\Debug\cs321HW.csprojAssemblyReference.cache
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\obj\Debug\cs321HW.csproj.CoreCompileInputs.cache
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\obj\Debug\cs321HW.exe
+C:\Users\ponce\Source\Repos\cs321HW\cs321HW\obj\Debug\cs321HW.pdb

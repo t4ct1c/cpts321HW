@@ -1,0 +1,15 @@
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\cs321HWBSTTests.deps.json
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\cs321HWBSTTests.runtimeconfig.json
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\cs321HWBSTTests.runtimeconfig.dev.json
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\cs321HWBSTTests.dll
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\bin\Debug\netcoreapp2.1\cs321HWBSTTests.pdb
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\obj\Debug\netcoreapp2.1\cs321HWBSTTests.csprojAssemblyReference.cache
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\obj\Debug\netcoreapp2.1\cs321HWBSTTests.csproj.CoreCompileInputs.cache
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\obj\Debug\netcoreapp2.1\cs321HWBSTTests.AssemblyInfoInputs.cache
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\obj\Debug\netcoreapp2.1\cs321HWBSTTests.AssemblyInfo.cs
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\obj\Debug\netcoreapp2.1\cs321HWBSTTests.dll
+C:\Users\ponce\Source\Repos\cs321HW\cs321HWBSTTests\obj\Debug\netcoreapp2.1\cs321HWBSTTests.pdb
